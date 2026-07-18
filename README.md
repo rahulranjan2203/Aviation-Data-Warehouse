@@ -67,8 +67,8 @@ The Power BI Master Operations Dashboard provides the following critical insight
 * **Geographic Tracking:** Chronological, step-by-step route mapping of specific aircraft tail numbers across the national network.
 
 ## Contributors
-* **Tushar Singh**
 * **Rahul Ranjan**
+* **Tushar Singh**
 * **Priyanshu Khatri**
 * **Abhinandan**
 
