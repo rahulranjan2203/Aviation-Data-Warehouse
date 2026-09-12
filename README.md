@@ -2,6 +2,7 @@
 
 A comprehensive enterprise Data Warehouse engineered using **Informatica Intelligent Data Management Cloud (IDMC)** and **Microsoft Power BI**. This project integrates, cleanses, and analyzes massive commercial aviation datasets to deliver actionable business insights into operational delays, airline performance, and geographic flight tracking.
 
+# Report link : https://drive.google.com/file/d/1w_6bhuC2HWRvYFZeGB_nIGr4i1IGCFhx/view?usp=sharing
 ---
 
 ## Table of Contents
@@ -65,6 +66,9 @@ The Power BI Master Operations Dashboard provides the following critical insight
 * **Root-Cause Analysis:** Categorization of primary delay drivers, including weather, security, airline operations, and local system failures.
 * **Operational Benchmarking:** Comparative analysis of average delay times across major commercial airlines.
 * **Geographic Tracking:** Chronological, step-by-step route mapping of specific aircraft tail numbers across the national network.
+
+* <img width="1615" height="974" alt="aviation_powerBI_dashboard" src="https://github.com/user-attachments/assets/0e3ee9a3-26d2-4b5d-9e79-5f70ceee0f76" />
+
 
 ## Contributors
 * **Rahul Ranjan**
