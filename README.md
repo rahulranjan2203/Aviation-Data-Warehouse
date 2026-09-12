@@ -50,8 +50,8 @@ By leveraging Informatica IDMC, this project automates the extraction, transform
 ## Schema Diagram
 Below is the Star Schema architecture designed for this data warehouse:
 
-![Schema Diagram](<img width="1536" height="1024" alt="Star Schema Flight Data Model" src="https://github.com/user-attachments/assets/e4b7442b-93ce-4d78-8cc1-c575211f3edc" />
-)
+<img width="1536" height="1024" alt="Star Schema Flight Data Model" src="https://github.com/user-attachments/assets/97525a49-889e-4bbd-923a-ff3c5c832a5e" />
+
 
 ## Data Transformations
 Key ETL transformations executed within Informatica IDMC:
